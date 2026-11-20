@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS VIP",
+  "description": "A futuristic bilingual (Hindi + English) AI phone manager powered by Google Gemini via Firebase AI Logic, featuring voice commands, Android Accessibility automation, smart app/media/communication launchers, customizable dashboard tools, Emergency Stop, and a privacy & permissions center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

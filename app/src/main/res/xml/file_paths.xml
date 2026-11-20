@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="jarvis_camera_cache"
+        path="camera/" />
+    <files-path
+        name="jarvis_shared_media"
+        path="shared/" />
+</paths>

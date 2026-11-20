@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JARVIS VIP</string>
+    <string name="accessibility_service_label">JARVIS VIP Screen Assistant</string>
+    <string name="accessibility_service_description">Enables user-authorized screen scrolling, global navigation (Back, Home, Recents), voice text insertion into focused fields, and assisted social/WhatsApp actions. Can be halted anytime with the Emergency Stop button.</string>
+    <string name="tab_assistant">JARVIS</string>
+    <string name="tab_tools">Tools</string>
+    <string name="tab_automation">Automate</string>
+    <string name="tab_privacy">Privacy</string>
+    <string name="emergency_stop">STOP</string>
+    <string name="resume_system">RESUME</string>
+</resources>
